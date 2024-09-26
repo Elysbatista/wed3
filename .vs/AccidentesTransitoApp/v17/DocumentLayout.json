@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\pages\\reporteaccidente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\pages\\reporteaccidente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\shared\\listaaccidentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\shared\\listaaccidentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\data\\accidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\data\\accidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\services\\accidenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\services\\accidenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\pages\\registraraccidente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\pages\\registraraccidente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\accidentestransitoapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\accidentestransitoapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|c:\\users\\eduardo\\source\\repos\\accidentestransitoapp\\accidentestransitoapp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C92BF40-79B6-4338-AB3D-EC54B3961E0C}|AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj|solutionrelative:accidentestransitoapp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaAccidentes.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Shared\\ListaAccidentes.razor",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Shared\\ListaAccidentes.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Shared\\ListaAccidentes.razor",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Shared\\ListaAccidentes.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T03:50:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarAccidente.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\RegistrarAccidente.razor",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Pages\\RegistrarAccidente.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\RegistrarAccidente.razor",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Pages\\RegistrarAccidente.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vyUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T03:49:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccidentesTransitoApp.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\AccidentesTransitoApp.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T03:42:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T03:50:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteAccidente.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\ReporteAccidente.razor",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Pages\\ReporteAccidente.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Pages\\ReporteAccidente.razor",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Pages\\ReporteAccidente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:42:07.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:36:31.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccidenteService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\services\\AccidenteService.cs",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\services\\AccidenteService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\services\\AccidenteService.cs",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\services\\AccidenteService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:47:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accidente.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Data\\Accidente.cs",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Data\\Accidente.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Data\\Accidente.cs",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Data\\Accidente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:44:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "service-worker.js",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\service-worker.js",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\wwwroot\\service-worker.js",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\service-worker.js",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\wwwroot\\service-worker.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T04:52:37.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T04:34:12.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\wwwroot\\index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T04:42:40.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T04:34:06.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "AccidentesTransitoApp\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\AccidentesTransitoApp\\AccidentesTransitoApp\\Client\\Program.cs",
+              "RelativeToolTip": "AccidentesTransitoApp\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:39:53.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@page "/reporte-accidente/{id}"
+@inject AccidenteService AccidenteService
+@inject IJSRuntime JSRuntime
+
+<h3>Reporte de Accidente</h3>
+
+<!-- Aquí va el contenido del reporte -->
+<!-- Suponiendo que tienes una variable "accidente" que contiene los detalles del accidente -->
+
+<button @onclick="ImprimirReporte">Imprimir Reporte</button>
+
+@code {
+   
+    private Accidente accidente;
+
+    private async Task ImprimirReporte()
+    {
+        await JSRuntime.InvokeVoidAsync("imprimirReporte");
+    }
+}

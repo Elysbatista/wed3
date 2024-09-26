@@ -1,0 +1,106 @@
+﻿@page "/registrar-accidente"
+
+@inject AccidenteService AccidenteService
+
+<h3>Registrar Accidente</h3>
+
+<EditForm Model="@accidente" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Fecha:</label>
+        <InputDate @bind-Value="accidente.Fecha" />
+    </div>
+
+    <div>
+        <label>Descripción:</label>
+        <InputText @bind-Value="accidente.Descripcion" />
+    </div>
+
+    <div>
+        <label>Costo:</label>
+        <InputNumber @bind-Value="accidente.Costo" />
+    </div>
+
+    <div>
+        <label>Número de muertos:</label>
+        <InputNumber @bind-Value="accidente.NumeroMuertos" />
+    </div>
+
+    <div>
+        <label>Número de heridos:</label>
+        <InputNumber @bind-Value="accidente.NumeroHeridos" />
+    </div>
+
+    <div>
+        <label>Cantidad de vehículos involucrados:</label>
+        <InputNumber @bind-Value="accidente.CantidadVehiculos" />
+    </div>
+
+    <button type="submit">@(!isEditing ? "Registrar" : "Actualizar")</button>
+    @if (isEditing)
+    {
+        <button type="button" @onclick="DeleteAccidente">Eliminar</button>
+    }
+</EditForm>
+
+<h3>Lista de Accidentes</h3>
+@if (accidentes.Count > 0)
+{
+    <ul>
+        @foreach (var item in accidentes)
+        {
+            <li>
+                @item.Fecha.ToShortDateString() - @item.Descripcion
+                <button @onclick="() => EditAccidente(item)">Editar</button>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No hay registros de accidentes.</p>
+}
+
+@code {
+    private Accidente accidente = new Accidente();
+    private List<Accidente> accidentes = new List<Accidente>();
+    private bool isEditing = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        accidentes = await AccidenteService.GetAccidentesAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        if (isEditing)
+        {
+            await AccidenteService.UpdateAccidenteAsync(accidente);
+        }
+        else
+        {
+            await AccidenteService.AddAccidenteAsync(accidente);
+        }
+
+        accidente = new Accidente(); // Reset form
+        isEditing = false;
+        accidentes = await AccidenteService.GetAccidentesAsync(); // Refresh list
+    }
+
+    private void EditAccidente(Accidente item)
+    {
+        accidente = item;
+        isEditing = true;
+    }
+
+    private async Task DeleteAccidente()
+    {
+        await AccidenteService.DeleteAccidenteAsync(accidente);
+        accidente = new Accidente(); // Reset form
+        isEditing = false;
+        accidentes = await AccidenteService.GetAccidentesAsync(); // Refresh list
+    }
+}
+

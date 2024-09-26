@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\bin\Debug\net7.0\AccidentesTransitoApp.Shared.deps.json
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\bin\Debug\net7.0\AccidentesTransitoApp.Shared.dll
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\bin\Debug\net7.0\AccidentesTransitoApp.Shared.pdb
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.dll
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\refint\AccidentesTransitoApp.Shared.dll
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\AccidentesTransitoApp.Shared.pdb
+C:\Users\Eduardo\source\repos\AccidentesTransitoApp\AccidentesTransitoApp\Shared\obj\Debug\net7.0\ref\AccidentesTransitoApp.Shared.dll

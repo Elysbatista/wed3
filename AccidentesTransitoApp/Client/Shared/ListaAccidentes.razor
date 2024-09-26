@@ -1,0 +1,32 @@
+﻿@page "/lista-accidentes"
+@inject AccidenteService AccidenteService
+
+<h3>Lista de Accidentes</h3>
+
+@if (accidentes == null || !accidentes.Any())
+{
+    <p>No hay accidentes registrados.</p>
+}
+else
+{
+    <ul>
+        @foreach (var accidente in accidentes)
+        {
+            <li>
+                <strong>Fecha:</strong> @accidente.Fecha.ToShortDateString() -
+                <strong>Descripción:</strong> @accidente.Descripcion -
+                <strong>Costo:</strong> @accidente.Costo -
+                
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Accidente> accidentes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        accidentes = await AccidenteService.GetAccidentesAsync();
+    }
+}

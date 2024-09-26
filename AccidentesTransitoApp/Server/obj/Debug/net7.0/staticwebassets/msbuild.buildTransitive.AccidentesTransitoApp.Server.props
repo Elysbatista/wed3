@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AccidentesTransitoApp.Server.props" />
+</Project>
